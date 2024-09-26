@@ -42,16 +42,16 @@ index.html
 This is the main entry point of the web application. It contains a navigation bar with links to Products, Solutions, Community, Resources. The authentication buttons (Sign In and Register) are also present in the header. This page uses the style.css file for its styling.
 
 page1.html
-Displays a grid of responsive cards with images. This page uses the page1.css file for its styling.
+Displays a grid of responsive cards with images. This page uses the style1.css file for its styling.
 
 page2.html
-Contains a quotes section, where each card displays a quote with an avatar, title, and description. This page uses the page2.css file for its styling.
+Contains a quotes section, where each card displays a quote with an avatar, title, and description. This page uses the style2.css file for its styling.
 
 page3.html
-Features a card layout, where each card has an image, title, and body text. This page uses the page3.css file for its styling.
+Features a card layout, where each card has an image, title, and body text. This page uses the style3.css file for its styling.
 
 page4.html
-Serves as the footer section for the web application, containing the footer content. This page uses the page4.css file for its styling.
+Serves as the footer section for the web application, containing the footer content. This page uses the style4.css file for its styling.
 
 authentication/register.html
 Registration page with form validation for username, email, and password fields. The form is styled using register.css and includes validation logic via script.js.
